@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/DEEJ4Y/backend-confessions-generator-from-template.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/DEEJ4Y/socialautopost.git
